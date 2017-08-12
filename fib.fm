@@ -1,0 +1,9 @@
+~*~* Compute the x'th fibonacci number. *~*~
+eh fib(x)
+  like x < 3 then
+    1
+  or whatever
+    fib(x-1)+fib(x-2)
+
+~*~* This expression will compute the 40th number. *~*~
+fib(40)
