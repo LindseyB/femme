@@ -1,5 +1,5 @@
-rando sin(arg);
-rando cos(arg);
-rando atan2(arg1 arg2);
+rando sin(arg)
+rando cos(arg)
+rando atan2(arg1 arg2)
 
 atan2(sin(.4), cos(42))
